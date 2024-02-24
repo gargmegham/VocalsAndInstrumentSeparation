@@ -20,7 +20,7 @@ This project aims to explore different approaches and algorithms for vocals and 
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/VocalsAndInstrumentSeparation.git`
+1. Clone the repository
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Download the dataset (if applicable) and place it in the appropriate directory.
 4. Run the main script or explore the provided notebooks.
